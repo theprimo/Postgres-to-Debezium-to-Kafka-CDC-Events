@@ -1,5 +1,3 @@
-# Postgres-to-Debezium-to-Kafka-CDC-Events
-
 step1:
 enable Hiper-V option in Windows, for Docker desktop
 
